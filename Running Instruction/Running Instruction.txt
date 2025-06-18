@@ -1,0 +1,17 @@
+Connect Inernet
+
+Open XAMPP Server , Start Apache & MYsql Service
+
+Put Project in htdocs folder in Xampp Folder
+
+Open Browser and follow {http://localhost/phpmyadmin/} & import database from project folder
+
+Open Browser And follow this Link {http://localhost/lms/}
+
+User name for student is : 101 
+
+Password for student is : 123456
+
+Username for admin : ADMIN
+
+Password for admin is : admin
